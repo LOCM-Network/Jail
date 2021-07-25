@@ -1,0 +1,5 @@
+name: LOCMJail
+version: 1.0
+api: 3.21.0
+main: phuongaz\Jail\Jail
+author: phuongaz
